@@ -1,1 +1,1 @@
-# plants-website
+This is a simple travel website build with css, html, and javascript.
